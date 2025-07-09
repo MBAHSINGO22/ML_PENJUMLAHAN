@@ -35,8 +35,7 @@
 ```
 ML_PENJUMLAHAN/
 ├── coba.py        # Penjumlahan dua angka tanpa konversi (hasil string)
-├── coba2.py       # Operasi lengkap (jumlah, kurang, kali, bagi) dengan konversi tipe data
-└── README.md
+└── coba2.py       # Operasi lengkap (jumlah, kurang, kali, bagi) dengan konversi tipe data
 ```
 
 ---
